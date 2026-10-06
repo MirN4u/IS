@@ -1,2 +1,4 @@
-# IS
-reposytory of my laboratory works at university to discipline "Information Systems"
+# IS - Информационные системы
+Курс состоит из 
+  -3-х лабораторных работ
+  -курсовой работы которая состоит из четырёх этапов
